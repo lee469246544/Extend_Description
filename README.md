@@ -1,0 +1,2 @@
+# Extend_Description
+字典和数组的一个扩展，直接调用description方法，用于修复原本字典数组中中文的话会乱码bug。
